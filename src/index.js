@@ -3,11 +3,13 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
 import Root from "./components/Root";
+import {SecondRoot} from "./components/SecondRoot";
+
 
 ReactDOM.render(
   <React.StrictMode>
    <div>
-       <Root/>
+       <SecondRoot/>
    </div>
   </React.StrictMode>,
   document.getElementById('root')
