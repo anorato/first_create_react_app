@@ -1,5 +1,6 @@
 import React, {useState, useEffect} from 'react';
 import axios from "axios";
+import {Counter} from "./Counter";
 
 export const SecondRoot = () => {
     const [posts, setPosts] = useState([]);
@@ -21,6 +22,7 @@ export const SecondRoot = () => {
 
     return (
         <div>
+            <Counter/>
             <ul>
                 {posts.map((post)=><li key={post.id}>{post.title}</li>)}
             </ul>

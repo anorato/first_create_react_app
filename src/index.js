@@ -4,12 +4,13 @@ import './index.css';
 import reportWebVitals from './reportWebVitals';
 import Root from "./components/Root";
 import {SecondRoot} from "./components/SecondRoot";
+import {Counter} from "./components/Counter";
 
 
 ReactDOM.render(
   <React.StrictMode>
    <div>
-       <SecondRoot/>
+       <Counter/>
    </div>
   </React.StrictMode>,
   document.getElementById('root')

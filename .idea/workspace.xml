@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3aadae6c-ecc3-4fc4-86f7-6e631585c0ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/SecondRoot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Counter.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SecondRoot.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SecondRoot.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +44,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components" />
+    </key>
+  </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
@@ -67,12 +73,25 @@
       <updated>1605348569593</updated>
       <workItem from="1605348570899" duration="329000" />
       <workItem from="1605349074168" duration="4204000" />
-      <workItem from="1605430683754" duration="8039000" />
+      <workItem from="1605430683754" duration="8542000" />
+      <workItem from="1605550059532" duration="4215000" />
     </task>
+    <task id="LOCAL-00001" summary="Resolved problem">
+      <created>1605472756443</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605472756443</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Resolved problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Resolved problem" />
   </component>
   <component name="WindowStateProjectService">
     <state x="723" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605349388298">
@@ -83,5 +102,13 @@
       <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state x="698" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1920.981@0.23.1920.981" timestamp="1605350436548" />
+    <state x="546" y="115" key="CommitChangelistDialog2" timestamp="1605472756276">
+      <screen x="0" y="23" width="1920" height="981" />
+    </state>
+    <state x="546" y="115" key="CommitChangelistDialog2/0.23.1920.981@0.23.1920.981" timestamp="1605472756276" />
+    <state x="560" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605472758338">
+      <screen x="0" y="23" width="1920" height="981" />
+    </state>
+    <state x="560" y="253" key="Vcs.Push.Dialog.v2/0.23.1920.981@0.23.1920.981" timestamp="1605472758338" />
   </component>
 </project>
